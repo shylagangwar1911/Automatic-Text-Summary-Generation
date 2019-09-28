@@ -10,7 +10,7 @@ The baseline model is trained on two data sets, asmentioned  in  section  3.1.  
 
 Several  variants  of  model  and  baseline  model are compared
 	- seq2seq model with random word embeddingand copy mechanism
-	* seq2seq model with ELMO word embedding
-	* seq2seq  model  with  intermediate  extractive summarization and random word embedding
-	* seq2seq  model  with  intermediate  extractivesummarization and random word embeddingwith copy mechanism
-	* seq2seq  model  with  intermediate  extractivesummarization and ELMO word embeddingwith copy 
+	- seq2seq model with ELMO word embedding
+	- seq2seq  model  with  intermediate  extractive summarization and random word embedding
+	- seq2seq  model  with  intermediate  extractivesummarization and random word embeddingwith copy mechanism
+	- seq2seq  model  with  intermediate  extractivesummarization and ELMO word embeddingwith copy 
